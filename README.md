@@ -23,10 +23,12 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -36,6 +38,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -45,4 +48,5 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
