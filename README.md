@@ -30,12 +30,14 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0112-path-sum) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0112-path-sum) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -49,6 +51,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0112-path-sum) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Hash Function
@@ -101,5 +104,6 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
