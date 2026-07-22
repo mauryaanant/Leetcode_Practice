@@ -43,6 +43,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0938-range-sum-of-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
 | ------- |
@@ -71,6 +72,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +117,12 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0938-range-sum-of-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
