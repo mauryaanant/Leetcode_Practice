@@ -19,6 +19,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0027-remove-element](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0994-rotting-oranges) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
@@ -75,6 +76,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0112-path-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0994-rotting-oranges](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Table
 |  |
@@ -133,4 +135,5 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
