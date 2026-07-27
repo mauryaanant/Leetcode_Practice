@@ -21,6 +21,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0994-rotting-oranges) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
@@ -146,10 +147,15 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
