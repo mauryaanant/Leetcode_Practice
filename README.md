@@ -57,6 +57,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0572-subtree-of-another-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -151,6 +152,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Topological Sort
 |  |
@@ -161,4 +163,8 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
