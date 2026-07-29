@@ -8,6 +8,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -62,6 +63,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0572-subtree-of-another-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0572-subtree-of-another-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -96,6 +98,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,10 +111,12 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
 |  |
 | ------- |
