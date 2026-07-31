@@ -6,6 +6,10 @@ using namespace std;
 class Solution {
 public:
     double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start_node, int end_node) {
+        // Fast I/O
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
         vector<vector<pair<int, double>>> adj(n);
         for (int i = 0; i < edges.size(); ++i) {
             int u = edges[i][0];
@@ -15,35 +19,30 @@ public:
             adj[v].push_back({u, prob});
         }
 
-        priority_queue<pair<double, int>> pq;
         vector<double> max_prob(n, 0.0);
+        vector<bool> in_queue(n, false);
+        queue<int> q;
 
         max_prob[start_node] = 1.0;
-        pq.push({1.0, start_node});
+        q.push(start_node);
+        in_queue[start_node] = true;
 
-        while (!pq.empty()) {
-            auto [curr_prob, u] = pq.top();
-            pq.pop();
+        while (!q.empty()) {
+            int u = q.front();
+            q.pop();
+            in_queue[u] = false;
 
-            if (u == end_node) {
-                return curr_prob;
-            }
-
-            if (curr_prob < max_prob[u]) {
-                continue;
-            }
-
-            for (auto& edge : adj[u]) {
-                int v = edge.first;
-                double prob = edge.second;
-
+            for (const auto& [v, prob] : adj[u]) {
                 if (max_prob[u] * prob > max_prob[v]) {
                     max_prob[v] = max_prob[u] * prob;
-                    pq.push({max_prob[v], v});
+                    if (!in_queue[v]) {
+                        q.push(v);
+                        in_queue[v] = true;
+                    }
                 }
             }
         }
 
-        return 0.0;
+        return max_prob[end_node];
     }
 };
