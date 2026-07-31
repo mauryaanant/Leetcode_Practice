@@ -25,6 +25,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0200-number-of-islands](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1514-path-with-maximum-probability) |
 | [1672-richest-customer-wealth](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -151,6 +152,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0207-course-schedule](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0210-course-schedule-ii) |
 | [0841-keys-and-rooms](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0841-keys-and-rooms) |
+| [1514-path-with-maximum-probability](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
@@ -175,6 +177,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1514-path-with-maximum-probability) |
 ## Counting Sort
 |  |
 | ------- |
@@ -186,5 +189,6 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 ## Shortest Path
 |  |
 | ------- |
+| [1514-path-with-maximum-probability](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
