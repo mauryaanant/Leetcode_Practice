@@ -152,6 +152,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0210-course-schedule-ii](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0210-course-schedule-ii) |
 | [0841-keys-and-rooms](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
 | ------- |
@@ -169,6 +170,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | ------- |
 | [0207-course-schedule](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -177,4 +179,12 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
