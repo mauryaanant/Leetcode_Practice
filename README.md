@@ -28,6 +28,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [1514-path-with-maximum-probability](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1514-path-with-maximum-probability) |
 | [1672-richest-customer-wealth](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
@@ -98,6 +99,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
@@ -165,6 +167,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Topological Sort
