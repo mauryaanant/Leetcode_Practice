@@ -6,6 +6,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 ## Math
 |  |
 | ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -26,6 +27,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0455-assign-cookies](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0994-rotting-oranges) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1514-path-with-maximum-probability) |
 | [1672-richest-customer-wealth](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1672-richest-customer-wealth) |
@@ -137,6 +139,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0455-assign-cookies](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Monotonic Stack
 |  |
 | ------- |
