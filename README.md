@@ -24,6 +24,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1514-path-with-maximum-probability) |
@@ -134,6 +135,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
