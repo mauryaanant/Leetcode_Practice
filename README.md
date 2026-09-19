@@ -67,6 +67,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 ## String Matching
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0572-subtree-of-another-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0572-subtree-of-another-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
