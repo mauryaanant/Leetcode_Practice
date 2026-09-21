@@ -26,6 +26,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0027-remove-element](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0994-rotting-oranges) |
@@ -133,6 +134,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
