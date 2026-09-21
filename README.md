@@ -21,6 +21,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0200-number-of-islands) |
@@ -104,6 +105,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
