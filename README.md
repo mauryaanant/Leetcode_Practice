@@ -22,6 +22,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0200-number-of-islands) |
@@ -38,6 +39,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0455-assign-cookies) |
 ## Tree
@@ -177,6 +179,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
