@@ -6,6 +6,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0007-reverse-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
