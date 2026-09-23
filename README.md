@@ -44,6 +44,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0015-3sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 ## Tree
 |  |
 | ------- |
@@ -74,6 +75,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0409-longest-palindrome](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0572-subtree-of-another-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -113,6 +115,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0001-two-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0409-longest-palindrome](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -219,4 +222,8 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0455-assign-cookies) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
