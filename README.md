@@ -7,6 +7,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0012-integer-to-roman) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -76,6 +77,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0012-integer-to-roman) |
 | [0409-longest-palindrome](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0572-subtree-of-another-tree) |
@@ -115,6 +117,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0409-longest-palindrome](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0567-permutation-in-string) |
