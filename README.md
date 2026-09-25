@@ -23,6 +23,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -41,6 +42,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0455-assign-cookies) |
@@ -149,6 +151,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0860-lemonade-change) |
