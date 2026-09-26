@@ -8,6 +8,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | ------- |
 | [0007-reverse-integer](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0029-divide-two-integers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -236,4 +237,8 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | ------- |
 | [0567-permutation-in-string](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1208-get-equal-substrings-within-budget) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
