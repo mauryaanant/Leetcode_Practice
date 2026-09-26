@@ -82,6 +82,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 | [0567-permutation-in-string](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0572-subtree-of-another-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1208-get-equal-substrings-within-budget](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Tree
@@ -131,6 +132,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 ## Binary Search
 |  |
 | ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -146,6 +148,7 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
+| [1208-get-equal-substrings-within-budget](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mauryaanant/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -232,4 +235,5 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0567-permutation-in-string) |
+| [1208-get-equal-substrings-within-budget](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1208-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
