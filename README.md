@@ -251,4 +251,5 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
