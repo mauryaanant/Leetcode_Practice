@@ -247,4 +247,8 @@ To keep track on my progress I have taken an initiative to push my leetcode prac
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mauryaanant/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/mauryaanant/Leetcode_Practice/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
